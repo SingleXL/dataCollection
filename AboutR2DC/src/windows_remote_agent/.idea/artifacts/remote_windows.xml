@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="remote_windows">
+    <output-path>$PROJECT_DIR$/out/artifacts/remote_windows</output-path>
+    <root id="archive" name="remote_windows.jar">
+      <element id="module-output" name="untitled" />
+    </root>
+  </artifact>
+</component>
